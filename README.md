@@ -1,5 +1,7 @@
 # MIT_missing_semester
 
+Going through MIT's The Missing Semester of Your CS Education course. This repo is to keep track of the lectures as well as lecture exercises completed from the course.
+
 This repository is forked from [missing-semester/_2020](https://github.com/missing-semester/missing-semester>). The entire class can be found [here](https://missing.csail.mit.edu/).
 
 ## Syllabus
